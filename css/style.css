@@ -1,0 +1,103 @@
+html, body{
+    margin: 1px;
+    padding: 1px;
+    font-family: "Helvetica", sans-serif;
+    font-size: 14pt;
+}
+
+body{
+    background-color:#3F51B5;
+    overflow-x: hidden;
+}
+
+.header_content{
+    background-color:#3F51B5;
+    box-shadow:
+    0px 3px 5px -1px rgba(0, 0, 0, 0.3),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+    text-align: center;
+}
+
+.header{
+    background-color:#3F51B5;
+    box-shadow:
+    0px 3px 5px -1px rgba(0, 0, 0, 0.3),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+}
+    
+.header_toobar{
+    padding-left: 10px;
+    box-shadow:
+    0px 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+}
+    
+.body_content{
+    height: 550px;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background:#ffffff;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #6f81e9;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.section_content{
+    margin: auto;
+    width: 50%;
+    background: #f3f3f3;
+    padding: 10px;
+}
+
+
+.button-width {
+    width: 10%;
+}
+
+.input-width{
+    width: 75px;
+}
+
+th, td {
+    width:25%;
+    text-align: left;
+    border-bottom: 1.5px solid rgb(168, 168, 168);
+}
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center{
+    margin-left:40%;
+}
+
+.center_form {
+    margin-left: 40%;
+}
