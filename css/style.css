@@ -101,3 +101,9 @@ th, td {
 .center_form {
     margin-left: 40%;
 }
+
+img{
+    margin-left: 40px;
+    width: 10%;
+    height: 10%;
+}
