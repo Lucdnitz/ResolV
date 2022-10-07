@@ -1,0 +1,43 @@
+.body_content{
+    height: 800px;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background:#e0e0e0;
+}
+
+.section_content{
+    margin: auto;
+    background: #fafafa ;
+    padding: 10px;
+}
+
+
+.button-width {
+    width: 10%;
+}
+
+.login-center{
+    margin-left: 20%;
+}
+
+.input-width {
+    width:50%;
+}
+
+.center-container{
+    padding-top: 120px;
+    padding-bottom: 10%;
+}
+
+.container-questao{
+    width: 100%;
+    padding-left:20%;
+    padding-bottom: 10%
+  }
+
+.section-content-questao{
+    width: 80%;
+    background: #fafafa ;
+}
